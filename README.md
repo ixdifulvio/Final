@@ -3,7 +3,7 @@ This is my final project on Papua New Guinea
 
 ## Project 1
 
-1. [Administrative Subdivisions of Papua New Guinea](https://github.com/ixdifulvio/workshop/blob/master/png.png)(Feb.20)
+1. ![](png.png)
    This is a map of Papua New Guinea with administrative level 1 and 2 labeled.
 2. [Population of Papua New Guinea Extracted from a Raster](https://github.com/ixdifulvio/workshop/blob/master/png_pop19.png)(Feb.20)
    This is a map of Papua New Guidea that contains the country's population density. 
