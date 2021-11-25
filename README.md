@@ -1,5 +1,5 @@
 # Papua New Guinea
-This is my final project on Papua New Guinea
+A research project on Papua New Guinea's political subdivisions, population, and infrastructure.
 
 ## Political subdivisions
  ![](png.png)
